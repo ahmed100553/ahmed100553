@@ -69,16 +69,6 @@ currently_building: "VitalFlow Radar - Non-contact Vital Signs Monitoring System
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![VitalFlow Radar](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=VitalFlow-Radar-Public&theme=tokyonight&hide_border=true)](https://github.com/ahmed100553/VitalFlow-Radar-Public)
-[![FMCW HR-BR](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=FMCW-HR-BR-Estimation&theme=tokyonight&hide_border=true)](https://github.com/ahmed100553/FMCW-HR-BR-Estimation)
-
-[![Maze DQN](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=MazeSolvingDQN&theme=tokyonight&hide_border=true)](https://github.com/ahmed100553/MazeSolvingDQN)
-[![Air Compressor Monitor](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=Air-Compressor-Monitor&theme=tokyonight&hide_border=true)](https://github.com/ahmed100553/Air-Compressor-Monitor)
-
-</div>
-
 ### 📡 VitalFlow Radar
 > **Non-contact Vital Signs Monitoring System using mmWave Radar Technology**
 
