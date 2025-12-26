@@ -179,16 +179,13 @@ Fourth-Order Cumulants + SVD + Shrinkage
 ## 📈 Research Metrics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed100553&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed100553&layout=compact&theme=algolia&hide_border=true&langs_count=8"/>
-  
-</div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed100553&theme=algolia&hide_border=true)
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed100553&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed100553&layout=compact&theme=algolia&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed100553&theme=algolia&hide_border=true)
+
 </div>
 
 ---
