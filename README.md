@@ -18,7 +18,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-a-100553/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=safari&logoColor=white)](https://ahmed100553.github.io/portfolio/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsendel@gmail.com)
-  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?user=jjrfUXAAAAAJ&hl=en))
+  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jjrfUXAAAAAJ&hl=en)
   
 </div>
 
