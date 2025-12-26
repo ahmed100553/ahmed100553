@@ -227,8 +227,8 @@ Fourth-Order Cumulants + SVD + Shrinkage
   <br/>
   
   ```
-  "The goal is to turn data into information, and information into insight."
-                                                    — Carly Fiorina
+  "If you sample fast enough to capture the highest-frequency sine wave, you can reconstruct the entire signal"
+                                                    — Harry Nyquist
   ```
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
