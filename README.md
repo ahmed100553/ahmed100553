@@ -230,8 +230,3 @@ const ahmed = {
   
 </div>
 
----
-
-<div align="center">
-  <sub>Built with ❤️ by Ahmed</sub>
-</div>
