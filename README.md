@@ -212,9 +212,7 @@ const ahmed = {
 
 💬 I'm always excited to discuss **healthcare technology**, **radar signal processing**, or **AI in medicine**!
 
-📫 Reach out to me at **ahmedsendel@gmail.com**
-
-🌐 Check out my portfolio at **[your-portfolio.com](https://your-portfolio.com)**
+🌐 Check out my portfolio at **https://ahmed100553.github.io/portfolio/**
 
 </div>
 
