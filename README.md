@@ -162,34 +162,6 @@ Fourth-Order Cumulants + SVD + Shrinkage
 
 ---
 
-## 📂 Featured Repositories
-
-<div align="center">
-
-[![VitalFlow Radar](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=VitalFlow-Radar-Public&theme=algolia&hide_border=true)](https://github.com/ahmed100553/VitalFlow-Radar-Public)
-[![FMCW HR-BR](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=FMCW-HR-BR-Estimation&theme=algolia&hide_border=true)](https://github.com/ahmed100553/FMCW-HR-BR-Estimation)
-
-[![Maze DQN](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=MazeSolvingDQN&theme=algolia&hide_border=true)](https://github.com/ahmed100553/MazeSolvingDQN)
-[![Air Compressor](https://github-readme-stats.vercel.app/api/pin/?username=ahmed100553&repo=Air-Compressor-Monitor&theme=algolia&hide_border=true)](https://github.com/ahmed100553/Air-Compressor-Monitor)
-
-</div>
-
----
-
-## 📈 Research Metrics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed100553&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed100553&layout=compact&theme=algolia&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed100553&theme=algolia&hide_border=true)
-
-</div>
-
----
-
 ## 🔬 Mathematical Foundations
 
 <div align="center">
